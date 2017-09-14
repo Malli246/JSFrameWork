@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = "10.0"
   
-  s.source       = { :git => "http://EXAMPLE/JSFrameWork.git", :tag => "0.8" }
+  s.source       = { :git => "https://github.com/Malli246/JSFrameWork.git", :tag => "0.8" }
 
   s.source_files  = "JSFrameWork", "JSFrameWork/**/*.{h,m,swift}"
      
