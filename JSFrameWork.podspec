@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   
 
   s.name         = "JSFrameWork"
-  s.version      = "0.0.1"
+  s.version      = "0.8"
   s.summary      = "JSFrameWork is used to create own table, textfield and button"
 
   s.description  = "SBFrameWork is used to create own table, textfield and button in swift language. It simplifies the coding"
