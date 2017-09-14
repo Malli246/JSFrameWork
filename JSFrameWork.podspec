@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   
 
   s.name         = "JSFrameWork"
-  s.version      = "0.8"
+  s.version      = "2.0"
   s.summary      = "JSFrameWork is used to create own table, textfield and button"
 
   s.description  = "SBFrameWork is used to create own table, textfield and button in swift language. It simplifies the coding"
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = "10.0"
   
-  s.source       = { :git => "https://github.com/Malli246/JSFrameWork.git", :tag => "0.8" }
+  s.source       = { :git => "https://github.com/Malli246/JSFrameWork.git", :tag => "2.0" }
 
   s.source_files  = "JSFrameWork", "JSFrameWork/**/*.{h,m,swift}"
      
